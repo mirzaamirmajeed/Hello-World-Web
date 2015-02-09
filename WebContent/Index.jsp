@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-this is first jsp and forth  version to test the git commit -v option
+this is first jsp and forth  version to test the git commit -v option  
 </body>
 </html>
